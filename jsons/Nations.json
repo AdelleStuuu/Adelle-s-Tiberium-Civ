@@ -112,7 +112,7 @@
 		"outerColor": [0,0,139],
 		"innerColor": [255,223,0],
 		"uniqueName": "Inetllectuality",
-		"uniques": ["Free [Great Scientist] upon discovering [Writing]", "[Great Scientist] is earned [75]% faster"],
+		"uniques": ["Gain [1] [Great Scientist] <after discovering [writing]>", "[Great Scientist] is earned [75]% faster"],
 		"cities": ["Washington, D.C","Moscow","New Delhi","Kuwait City","Manila","Beijing","Santiago","Moroni","PanamaCity","Harare","Lusaka","Montevideo","Abu Dhabi","Kampala"]
 	},
 
