@@ -47,7 +47,7 @@
 		"cost": 360,
 		"production": 4,
 		"percentStatBonus": {"production": 12},
-		"specialistSlots": {"Great Engineer": 2},
+		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
