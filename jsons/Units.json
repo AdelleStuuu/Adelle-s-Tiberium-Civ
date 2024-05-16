@@ -199,7 +199,7 @@
 		"uniques": ["[+150]% Strength <vs [Armored] units>","[+150]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20
 	},
-		{
+	{
 		"name": "Mutant Soldier",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry",
