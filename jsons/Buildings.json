@@ -46,12 +46,12 @@
 		"uniqueTo": "The Forgotten",
 		"cost": 360,
 		"production": 4,
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 2},
+		"percentStatBonus": {"production": 12},
+		"specialistSlots": {"Great Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
-	},
+	}
 ]
