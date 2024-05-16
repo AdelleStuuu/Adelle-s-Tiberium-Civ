@@ -211,5 +211,5 @@
 	    "uniques": ["[+50]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>","[-50]% Strength <vs [Armored] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-	},
+	}
 ]
