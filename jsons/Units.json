@@ -206,6 +206,7 @@
 	    "uniqueTo": "The Forgotten",
 		"movement": 2,
 		"strength": 85,
+		"maintenance": 3,
 		"cost": 375,
 		"requiredTech": "Plastics",
 	    "uniques": ["[+50]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>","[-50]% Strength <vs [Armored] units>"],

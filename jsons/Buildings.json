@@ -52,6 +52,7 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredResource": "Coal",
-		"requiredTech": "Industrialization"
+		"requiredTech": "Industrialization",
+		"uniques": ["Free [Mutant Soldier] appears","Free [Mutant Soldier] appears"]
 	}
 ]
